@@ -1,0 +1,23 @@
+{
+  "name": "fsfev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/para1ax/FSFEv2.git"
+  },
+  "author": "The_C1oud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/para1ax/FSFEv2/issues"
+  },
+  "homepage": "https://github.com/para1ax/FSFEv2#readme"
+}
